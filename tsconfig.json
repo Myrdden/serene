@@ -1,0 +1,13 @@
+{
+	"files": [ "index.js" ],
+	"compilerOptions": {
+		"target": "es2021",
+		"sourceMap": false,
+		"noEmit": true,
+		"allowJs": true,
+		"checkJs": true,
+
+		"strict": true,
+		"noImplicitAny": true
+	}
+}
